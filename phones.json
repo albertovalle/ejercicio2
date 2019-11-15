@@ -1,0 +1,10 @@
+  {
+    "phones": [
+      { "id": 1, "name": "XIAOMI", "description": "Muy rápido", "colour": "Rojo", "price": "200€" },
+      { "id": 2, "name": "SAMSUNG", "description": "Muy ligero", "colour": "Blanco", "price": "699€" },
+      { "id": 3, "name": "NOKIA", "description": "Mucha bateria", "colour": "Negro", "price": "100€" },
+      { "id": 4, "name": "IPHONE", "description": "Tiene 5G", "colour": "Negro", "price": "280€" },
+      { "id": 5, "name": "POCOPHONE F1", "description": "Muy potente", "colour": "Azul", "price": "700€" },
+      { "id": 6, "name": "BQ", "description": "Mucha bateria", "colour": "Negro", "price": "500€" }
+    ]
+  }
